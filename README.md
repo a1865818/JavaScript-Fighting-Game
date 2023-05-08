@@ -1,1 +1,1 @@
-# JavaScript-Fighting-Game
+# Fighting_game_demo
